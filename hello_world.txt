@@ -1,0 +1,2 @@
+"Hello Odin!"
+I have also poked you at README...file also. now i am gonna snap this changes to the github repository just using the comand in my terminal git add . to add all file at the stage status or i can use git add <file name>. **note ** before using the commannd to save and add changes to the git hub rep.. make sure that you have save changes to your code eidtor.
